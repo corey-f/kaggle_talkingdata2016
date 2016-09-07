@@ -4,10 +4,10 @@
 The data for this project is available on Kaggle.com at this URL: https://www.kaggle.com/c/talkingdata-mobile-user-demographics/data
 
 ## Required libraries
--Anaconda (Python 2.X)
--XG Boost
--TensorFlow
--Keras
+- Anaconda (Python 2.X)
+- XG Boost
+- TensorFlow
+- Keras
 
 ## Execution Instructions
 To run the project download all data in place in a "data" folder, then execute the python scripts in this order:
